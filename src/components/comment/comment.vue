@@ -11,7 +11,7 @@
                  <img src="@/assets/default_img.jpg" alt="" v-else>
              </div>
              <input  v-model="value" ref="Postipt" type="text" placeholder="说点什么吧" >
-             <button @click="foucusInput">发表</button>
+             <button @click="foucusInput">发表111</button>
          </div>
      </div>
   </div>
